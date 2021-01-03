@@ -1,0 +1,6 @@
+Variables: contenedores de distintos tipos de datos. Estos pueden ser strings, numeros, booleans, entre otros.
+Strings: tipo de variable que almacena caracteres.
+Funciones: son unos tipos particulares de objetos que ayudan a tratar con variables. Estas pueden o no tener argumentos (inputs que les damos para que funciones de manera correcta). Por otra
+parte, pueden tener como no un "return", es decir, pueden tener un output que podemos utilizar de manera posterior.
+Declaraciones if: Condicionales que devuelven booleans (true or false). Sirven para poder crear parámetros de decision. Ej: Si x > y, hacer A, si no, hacer B.
+Valores booleanos (true, false): tipo de dato que solo puede tomar valores binarios (0,1 ; true or false).
