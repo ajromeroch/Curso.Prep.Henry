@@ -1,0 +1,5 @@
+for: expresión utilizada para dar inicio a un bucle, el cual consta de 3 partes para que funcione: definicion variable inicial, condicion de repeticion y modificación de variable inicial.
+&&, ||, !: Operadores lógicos que se utilizan para establecer relaciones. 
+&& (AND) toma 2 argumentos y verifica si ambos cumplen con la condicion dada. Debe tener dos TRUE para que retorne un TRUE.
+|| (OR) toma 2 argumentos y verifica si alguno de los 2 cumplen con la condicion dada. Debe tener a lo menos un TRUE para que retorne un TRUE.
+! (NOT) simplemente retorna el opuesto al valor entregado, es decir, !true retornaria false.
