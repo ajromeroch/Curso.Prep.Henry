@@ -103,9 +103,8 @@ function esPrimo(numero) {
       }
     return prime
   }
-
 }
-
+}
 
 
 // No modificar nada debajo de esta línea
