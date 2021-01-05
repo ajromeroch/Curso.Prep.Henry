@@ -1,0 +1,1 @@
+arrays: es una colección de tipos de datos que permite almacenar distintos tipos en un solo "arreglo" o estructura de datos. Podemos tener mas de un tipo de dato dentro de una sola variable.
