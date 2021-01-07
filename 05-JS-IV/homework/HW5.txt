@@ -1,0 +1,8 @@
+objetos: contenedor de datos donde puedo asignar varias caracteristicas al mismo contenedor. No puedo almacenar varias cosas distintas, sino varias cosas para el mismo contenedor. Todo en JS
+son objetos.
+propiedades: propias de los objetos, son características de estos.
+métodos: funciones asociadas a un objeto.
+bucle for.. in: desconociendo la longitud de algun objeto, bucle for .. in puede hacer un loop por cada una de las claves dentro del objeto. Es de gran uso para ir por todas las keys de un 
+objeto.
+Notación de puntos vs Notación de corchetes: realizan la misma acción, solamente que con la notación de corchetes se pueden pasar variables para llamar los elementos dentro del objeto, con 
+la notación de puntos no es posible
