@@ -1,0 +1,2 @@
+prototype: objeto perteneciente a todo objeto el cual no esta declarado explicitamente dentro de las propiedades del objeto.
+Constructors (de Clases): forma de inicializar/instanciar un objeto, basado en una clase, que es una plantilla para crear objetos.
